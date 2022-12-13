@@ -1,0 +1,13 @@
+﻿cod.dre;Descrição;tipo;C_ Aumento Positivo;Posição
+1;Receita;A;P;1
+2;Deduções da Receita Bruta;A;N;2
+3;Receita Líquida;S;P;3
+4;Custos;A;N;4
+5;Lucro Bruto;S;P;5
+6;Despesas;A;N;6
+7;Lucro Antes do Resultado Financeiro;S;P;7
+8;Resultado Financeiro;A;P;8
+9;Lucro Antes do Imposto S/ Lucro;S;P;9
+10;Imposto Sobre o Lucro;A;N;10
+11;Lucro Líquido;S;P;11
+12;EBITDA;EB;P;12
